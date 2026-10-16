@@ -1,0 +1,7 @@
+* c92c3e6 - 2312719 Tran Ngoc Bao Phuoc (Fri Oct 16 15:43:45 2026 +0700): Hoàn thiện bài Lab
+* 9261296 - 2312719 Tran Ngoc Bao Phuoc (Fri Oct 16 15:27:07 2026 +0700): Fix syntax error and restore CI green status
+* 73fde6b - 2312719 Tran Ngoc Bao Phuoc (Fri Oct 16 15:23:55 2026 +0700): Test Fail-Fast: deliberate syntax error to break the build
+* 7289753 - 2312719 Tran Ngoc Bao Phuoc (Fri Oct 16 15:09:35 2026 +0700): Implement mock tests and bring CI pipeline to PASS
+* 58262da - 2312719 Tran Ngoc Bao Phuoc (Fri Oct 16 14:40:48 2026 +0700): khởi  động Quality Gate với ngưỡng Coverage 80%
+* 4ee2533 - 2312719 Tran Ngoc Bao Phuoc (Fri Oct 16 14:30:07 2026 +0700): Thêm basic CI pipeline configuration
+* b16d472 - 2312719 Tran Ngoc Bao Phuoc (Fri Oct 16 14:15:15 2026 +0700): khởi tạo project and local test
